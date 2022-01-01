@@ -1,6 +1,6 @@
-# V2Ray Heroku
+# VsRay Her0ku
 
-**若需部署 V2Ray VLESS，请转到 [vless](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
+**若需部署 VsRay VLE55，请转到 [vle55](https://github.com/bclswl0827/v2ray-heroku/tree/vless) 分支。**
 
 ## 概述
 
